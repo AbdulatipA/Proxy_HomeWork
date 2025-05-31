@@ -1,4 +1,4 @@
-package org.example.proxy_homework_my;
+package org.example.proxy_homework;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
 

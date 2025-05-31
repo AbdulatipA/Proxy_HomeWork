@@ -1,8 +1,5 @@
-package org.example.proxy_homework_my;
+package org.example.proxy_homework;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

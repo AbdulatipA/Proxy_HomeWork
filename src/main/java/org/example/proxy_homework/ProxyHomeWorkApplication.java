@@ -1,12 +1,12 @@
-package org.example.proxy_homework_my;
+package org.example.proxy_homework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProxyHomeWorkMyApplication {
+public class ProxyHomeWorkApplication {
     public static void main(String[] args) {
-        SpringApplication.run(ProxyHomeWorkMyApplication.class, args);
+        SpringApplication.run(ProxyHomeWorkApplication.class, args);
     }
 
 }
